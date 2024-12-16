@@ -1,0 +1,40 @@
+/* RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* RESET */
+
+/* BODY */
+body{
+    font-family: "Fredoka", sans-serif;
+}
+
+.container h1{
+    color: #E53170;
+}
+
+#email{
+    color: #6ECBF2;
+    text-decoration: none;
+}
+
+img{
+    height: 100%;
+    max-width: 130px;
+}
+
+.card_info{
+    width: 200px;
+}
+
+.team-container{
+    gap: 15px;
+}
+
+.containerForm{
+    max-width: 320px;
+    margin: 0 auto;
+}
+/* BODY */
